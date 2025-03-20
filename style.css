@@ -23,6 +23,17 @@ body{
 .titulo-principal{
     text-align: center;
     width: 100%;
-    font-size: 40px;
-    
+    font-size: 40px;   
+}
+.botao{
+    font-family: 'Times New Roman' , Times, serif;
+    background-color: var(--botao-intiva);
+    color: var(--branco)
+    display: flex;
+    justify-content: center;
+    padding: 1em;
+    font-size: 18px;
+    align-items: center;
+    width: 100%;
+    border-bottm: 4px solid 
 }
